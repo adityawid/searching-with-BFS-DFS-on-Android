@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BFS</string>
+
+    <string name="action_exit">Exit</string>
+    <string name="action_DFS">depth first search</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="btn_addroot">Add Starting Vertex</string>
+    <string name="btn_addvertex">Add New Vertex</string>
+    <string name="et_vvalue">value</string>
+    <string name="btn_svalue">Set</string>
+    <string name="toast_addroot">Touch screen to add root vertex</string>
+    <string name="et_key">search key</string>
+    <string name="btn_startbfs">Search</string>
+    <string name="toast_emptykey">Key can not be blank</string>
+    <string name="toast_emptyvalue">Value can not be blank</string>
+    <string name="btn_removevertex">Remove Selected Vertex</string>
+    <string name="toast_vertex_children_no_delete">Can not delete vertex with children!</string>
+</resources>
